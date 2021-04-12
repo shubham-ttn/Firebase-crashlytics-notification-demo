@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DummyApp</string>
+    <string name="channel_name">DummyApp channel</string>
+    <string name="channel_description">DummyApp channel description</string>
+</resources>
